@@ -1,0 +1,21 @@
+        body {
+            background-color: rgb(118, 143, 143);
+        }
+
+        h2 {
+            text-align: center;
+        }
+
+        .card-body a {
+            word-break: break-all;
+        }
+
+        .articleHeadline {
+            line-height: 1.5;
+        }
+
+        #Submit {
+            float: right;
+            background-color: black;
+            color: white;
+        }
